@@ -1,0 +1,8 @@
+body{
+    background-image: url("../images/pion.png");
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-color: rgb(185, 185, 0);
+    background-attachment:fixed;
+
+}
