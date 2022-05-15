@@ -1,0 +1,14 @@
+<<<<<<< Updated upstream
+=======
+body{
+    background-image: url("../images/pion.png");
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-attachment:fixed;
+    background-size: 25%;
+}
+
+nav{
+    background-color: rgba(177, 169, 79, 0.604);
+}
+>>>>>>> Stashed changes
