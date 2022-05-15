@@ -24,4 +24,3 @@ Le projet Les Règles du Jeu a alors pour but de mettre en place une présentati
 <?php
 include_once("includes/footer.php");
 ?>
-</html>

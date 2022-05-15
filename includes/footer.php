@@ -4,3 +4,5 @@
       <small><li class="list-inline-item"><a href="#">Haut de la page ↑</a></li></small>
     </ul>
 </footer>
+
+</html>
