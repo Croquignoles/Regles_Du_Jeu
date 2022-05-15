@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-=======
+/*index*/
 body{
     background-image: url("../images/pion.png");
     background-repeat: no-repeat;
@@ -11,4 +10,9 @@ body{
 nav{
     background-color: rgba(177, 169, 79, 0.604);
 }
->>>>>>> Stashed changes
+
+/*etapes*/
+a{
+    text-decoration: none;
+    size : large;
+}

@@ -1,38 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Les Règles du jeu</title>
-    <link rel="stylesheet" href="css/gestionProjet.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-</head>
- 
+<?php
+include_once("header.php");
+?>
 
 <body>
-  <div class = "container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="home.html">Les Règles du jeu</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item active">
-            <a class="nav-link" href="objectifs.html">Objectifs</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#"><strong>Gestion de projet</strong></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="etapes.html">Etapes du projet</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-  </div>
-
   <div class="container text-center" style="width: 70%">
     <p><h1 class = "text-primary">GESTION DE PROJET</h1></p>
     <p class="py-3"><h3>Réunions régulières et répartition des tâches</h3></p>
