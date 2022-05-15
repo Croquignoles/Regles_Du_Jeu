@@ -1,5 +1,5 @@
 <?php
-include_once("header.php");
+include_once("includes/header.php");
 ?>
 <body>
     <div class="container" style="width: 70%">
@@ -11,7 +11,7 @@ include_once("header.php");
         Nous cherchions donc un jeu aux règles plutôt rapides. Elles ne devaient pas être trop complexes sans être triviales. Notre choix s'est dans un premier temps porté sur le jeu 7 Wonders. Ce dernier est un jeu de plateau moyen. Le livret de règles n’est pas très lourd et pourtant il comprend de nombreuses subtilités (notamment concernant les différentes catégories de carte) qui peuvent effrayer un joueur lors de ses premières parties. 
     </p>
     <p>
-        Cependant,observer les joueurs jouer à ce jeu serait bien trop long. En effet, la lecture des règles et une première partie dépasseraient rapidement les 1h30 d’observation et donc diminueraient drastiquement le nombre total d'observations que nous pourrions réaliser.
+        Cependant, observer les joueurs jouer à ce jeu serait bien trop long. En effet, la lecture des règles et une première partie dépasseraient rapidement les 1h30 d’observation et donc diminueraient drastiquement le nombre total d'observations que nous pourrions réaliser.
     </p>
     <p>
         Nous avons donc, dans un second temps, désiré nous appuyer sur l’avis des différents joueurs concernant le choix de ce jeu. Pour cela nous avons mis en place un questionnaire (Voir partie correspondante).
