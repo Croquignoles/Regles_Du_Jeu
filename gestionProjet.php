@@ -7,8 +7,10 @@ include_once("includes/header.php");
     <p><h1 style="color: #2a9d8f">GESTION DE PROJET</h1></p>
     <p class="py-3"><h3>Réunions régulières et répartition des tâches</h3></p>
   </div>
-  <div class = "container border border-3">
+  <div class = "container">
     <h1>Gestion du projet</h1>
+  </div>
+  <div class = "container border border-3">
     <table>
       <td width="60%">
         <p>

@@ -8,10 +8,16 @@ include_once("includes/header.php");
     <h3>Les étapes que nous avons suivis ont été chronologiquement les suivantes</h3>
     <ul>
       <li>
-        <a href="etat_de_art.html">Etat de l'art</a> 
+        <a href="etat_de_art.php">Etat de l'art</a> 
       </li>
       <li>
-        <a href="choix_jeu.html">Choix du jeu</a> 
+        <a href="choix_jeu.php">Choix du jeu</a> 
+      </li>
+      <li>
+        <a href="">Observations</a>
+      </li>
+      <li>
+        <a href="travail_regles.php">Travail sur les règles du jeu</a>
       </li>
     </ul>
   </div>
