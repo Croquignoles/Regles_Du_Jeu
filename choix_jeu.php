@@ -7,12 +7,12 @@ include_once("includes/header.php");
     <h1> Choix du jeu à étudier</h1>
     <br/>
     <p>
-        Afin de pouvoir nous appuyer sur un exemple concret et dans le futur de pouvoir effectuer des tests de maquettes utilisant de véritables règles de jeux, il nous a fallu choisir un jeu de base à étudier. Ce jeu serait aussi utilisé lors des différentes observations à réaliser. 
+    Afin de pouvoir nous appuyer sur un exemple concret, il nous a fallu choisir un jeu de base à étudier  et sur lequel baser notre maquette. Le choix du jeu a dû se dérouler vers le début de notre projet afin de pouvoir baser nos différents tests et observations sur ce dernier. 
     </p>
     <table>
         <td width=70%>
             <p>
-                Nous cherchions donc un jeu aux règles plutôt rapides. Elles ne devaient pas être trop complexes sans être triviales. Notre choix s'est dans un premier temps porté sur le jeu 7 Wonders. Ce dernier est un jeu de plateau moyen. Le livret de règles n’est pas très lourd et pourtant il comprend de nombreuses subtilités (notamment concernant les différentes catégories de carte) qui peuvent effrayer un joueur lors de ses premières parties. 
+            Nous avons donc cherché un jeu aux règles plutôt rapides. Elles ne devaient pas être trop complexes sans être triviales. Notre choix s'est dans un premier temps porté sur le jeu 7 Wonders. Ce dernier est un jeu de plateau moyen. Le livret de règles n’est pas très lourd et pourtant il comprend de nombreuses subtilités (notamment concernant les différentes catégories de carte) qui peuvent effrayer un joueur lors de ses premières parties. 
             </p>
             <p>
                 Cependant, observer les joueurs jouer à ce jeu serait bien trop long. En effet, la lecture des règles et une première partie dépasseraient rapidement les 1h30 d’observation et donc diminueraient drastiquement le nombre total d'observations que nous pourrions réaliser.
@@ -28,7 +28,7 @@ include_once("includes/header.php");
         </td>
         <td width=70%>
             <p>
-                Cela n’ayant pas porté ses fruits, nous avons choisi de continuer à chercher de notre côté le jeu le plus adapté. Nous avons fini par choisir le jeu Complots.
+            Nous avons donc pris la décision de chercher un nouveau jeu qui en plus de posséder des règles non triviales devait être assez rapide. Nous avons fini par choisir le jeu Complots dont les règles sont grossièrement les suivantes.
             </p>
             <p>
                 En début de partie, chaque joueur se voit distribuer 2 cartes qu’il cache aux autres. Chacune d’entre elles correspondant à un personnage ayant des capacités qui lui sont propres. Le joueur doit ensuite être le dernier avec des cartes (un personnage encore en vie). Pour avancer dans le jeu, les joueurs doivent utiliser la ruse en mentant sur les personnages qu’ils possèdent.  

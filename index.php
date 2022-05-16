@@ -7,9 +7,9 @@ include_once("includes/header.php");
   
   <div class="container shadow p-3 mb-5 rounded" style="width: 80%">
     <div class = "container text-center">
-      <p class = "font-weight-bold"><h3>Projet transdisciplinaire</h3></p>
-      <p class = "font-weight-bold"><h3 class = "text-primary">Fiche descriptive</h3></p><br/>
-      <p class = "font-weight-bold"><h2 class="text-danger">Les Règles du jeu</h2></p>
+      <p class = "font-weight-bold"><h3 style="color:#2a9d8f">Projet transdisciplinaire</h3></p>
+      <p class = "font-weight-bold"><h3 style="color:#e9c46a">Fiche descriptive</h3></p><br/>
+      <p class = "font-weight-bold"><h2 style="color:#f4a261">Les Règles du jeu</h2></p>
     </div>
     <div class="container" style="width: 70%">
       <br/><br/>

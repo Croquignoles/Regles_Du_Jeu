@@ -2,15 +2,16 @@
 include_once("includes/header.php");
 ?>
 
-<body style="background-color: #e9c46a">
+<body>
   <div class="container text-center" style="width: 70%">
     <p><h1 style="color: #2a9d8f">GESTION DE PROJET</h1></p>
     <p class="py-3"><h3>Réunions régulières et répartition des tâches</h3></p>
   </div>
+  </br>
   <div class = "container">
-    <h1>Gestion du projet</h1>
+    <h2 style="color: #f4a261">LES REUNIONS</h1>
   </div>
-  <div class = "container border border-3">
+  <div class = "container">
     <table>
       <td width="60%">
         <p>
@@ -28,14 +29,24 @@ include_once("includes/header.php");
       Les réunions avec le chef de projet se déroulent si possible en présentiel. Elles nous permettent de partager nos avancées sur le projet mais surtout d’avoir des retours sur les différentes idées mises en place.
     </p>
   </div>
+  <br/>
   <div class = "container">
-    <p> 
-      Vers la moitié du projet, nous avons mis en place un planning afin de prévoir l’évolution de notre projet jusqu’à la fin. Celui-ci se décompose en trois grandes parties et se présente de la façon suivante.  
-    </p> 
-    <br/>
-    <img class="border" style="border-color: #2a9d8f; border-radius: 3px" src="images/Planning.png" alt="LDiscord de mi-projet" width=800>
+    <h2 style="color: #e76f51">PLANNING</h1>
+  </div>
+  <br/>
+  <div class = "container">
+    <table>
+      <td width="60%">
+      <p> 
+        Vers la moitié du projet, nous avons mis en place un planning afin de prévoir l’évolution de notre projet jusqu’à la fin. Celui-ci se décompose en trois grandes parties et se présente de la façon suivante.  
+      </p> 
+      </td>
+      <td width="50%">
+        <img class="border border-3" src="images/Planning.png" alt="LDiscord de mi-projet" width=800>
+      </td>
+    </table>
     <br/><br/><br/>
-    <p>
+    <p class="text-center">
       Les différents brainstorming de l’équipe se font sur l’application miro.
     </p>
     <br/>

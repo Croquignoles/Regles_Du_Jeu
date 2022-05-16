@@ -1,7 +1,7 @@
 <?php
 include_once("head.php");
 ?>
-<nav class="navbar navbar-expand-lg navbar-light bg-gradient" style="background-color: #264653">
+<nav class="navbar navbar-expand-lg navbar-light bg-gradient sticky-top" style="background-color: #264653">
   <a class="navbar-brand my-3 mx-3 text-white" href="index.php">Les Règles du jeu</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
