@@ -3,4 +3,8 @@ a{
     text-decoration: none;
     size : large;
 }
-
+body{
+    font-family: "Alegreya","Times New Roman",Times,Georgia,serif; 
+    font-size: 18px; 
+    line-height: 1.5;
+}
