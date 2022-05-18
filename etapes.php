@@ -19,6 +19,9 @@ include_once("includes/header.php");
       <li>
         <a href="travail_regles.php">Travail sur les règles du jeu</a>
       </li>
+      <li>
+        <a href="test.php">Test de notre maquette</a>
+      </li>
     </ul>
   </div>
 
