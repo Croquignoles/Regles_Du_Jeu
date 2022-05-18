@@ -3,7 +3,7 @@ include_once("includes/header.php");
 ?>
 <body>
     <div class="container" style="width: 70%">
-    <h1> Recherche de l'existant </h1>
+    <p><h1 style="color: #2a9d8f"> Recherche de l'existant </h1></p>
     <p>
         Comme première mission pour ce projet, nous nous étions fixé de faire des recherches sur ce qui existait déjà concernant la clarté des règles de jeux mais surtout sur les travaux permettant un divertissement pour le joueur. 
     </p>

@@ -3,8 +3,7 @@ include_once("includes/header.php");
 ?>
 <body>
     <div class="container" style="width: 70%">
-    <br/>
-    <h1> Analyses des règles</h1>
+    <p><h1 style="color: #2a9d8f"> Analyses des règles</h1></p>
     </div>
     <div class = "container border border-3">
     <br/>
@@ -20,8 +19,7 @@ include_once("includes/header.php");
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </div>
 <div class="container" style="width: 70%">
-    <br/>
-    <h1> Travail sur les règles</h1>
+    <p><h1 style="color: #e9c46a"> Travail sur les règles</h1></p>
     </div>
     <div class = "container border border-3">
     <br/>
@@ -34,9 +32,14 @@ include_once("includes/header.php");
     <p>
         Le brainstorming s'est donc déroulé de la manière suivante. Nous disposions de quatre minutes chacun afin d’écrire sur l’application les différents points qui se sont illustrés lors de nos observations et que nous pouvons retravailler. Nous avons ensuite pris quatre minutes pour déterminer individuellement des solutions permettant de résoudre les problèmes évoqués précédemment. Enfin, nous avions le droit à quatre votes afin de préciser quels problèmes nous semblaient les plus importants et quatre autres votes afin de voter pour les solutions qui nous semblaient les plus pertinentes et les plus réalisables. Cela nous à alors permis de prioriser notre travail et de le visualiser plus clairement ce à quoi notre maquette allait correspondre.
     </p>
-    <p>
-    Nous avons donc obtenu le tableau miro suivant :
-    </p>
+    <table>
+        <td width="50%">
+            Nous avons donc obtenu le tableau miro suivant :
+        </td>
+        <td>
+            <img src="images/tableau_miro.png" width=400>
+        </td>
+    </table>
     <p>
     Il nous est ensuite possible de classer chaque solution. Pour cela, nous leur attribuons des valeurs selon le nombre de votes qu’elles ont reçues
     </p>

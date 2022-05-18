@@ -3,9 +3,7 @@ include_once("includes/header.php");
 ?>
 <body>
     <div class="container" style="width: 70%">
-    <br/>
-    <h1> Choix du jeu à étudier</h1>
-    <br/>
+    <p><h1 style="color: #2a9d8f"> Choix du jeu à étudier</h1></p>
     <p>
     Afin de pouvoir nous appuyer sur un exemple concret, il nous a fallu choisir un jeu de base à étudier  et sur lequel baser notre maquette. Le choix du jeu a dû se dérouler vers le début de notre projet afin de pouvoir baser nos différents tests et observations sur ce dernier. 
     </p>
