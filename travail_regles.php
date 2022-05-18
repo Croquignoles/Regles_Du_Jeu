@@ -13,9 +13,7 @@ include_once("includes/header.php");
     <p>
     Pour cela, nous avons lu les règles fournies avec le jeu puis nous avons réalisé des parties. Cela a permis de mettre en évidence des incertitudes. qui ne nous étaient pas apparues lors de la simple lecture du livret. Nous prenons alors soin d’en prendre note.
     </p>
-    <p>
-    Pour finir, nous comptons continuer notre analyse des règles durant les différentes observations que nous réaliserons. En effet, de nouveaux questionnements judicieux vont probablement être mis en avance à ce moment.
-    </p>
+    <a href="pdf/regles.pdf" target="_blank"> Règles du jeu Complots</a>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </div>
 <div class="container" style="width: 70%">

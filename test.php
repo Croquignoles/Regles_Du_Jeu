@@ -7,7 +7,8 @@ include_once("includes/header.php");
     </div>
     <div class = "container border border-3">
     <br/>
-        Afin de tester notre maquette, nous avons choisi de la comparer directement aux règles de base du jeu. Pour cela, nous avons fait en sorte que les deux règles se présentent sous le même format afin de ne pas faire apparaître de biais. Nous avons donc modifier le format des règles de base en un livret A5.
+        Afin de tester notre maquette, nous avons choisi de la comparer directement aux règles de base du jeu. Pour cela, nous avons fait en sorte que les deux règles se présentent sous le même format afin de ne pas faire apparaître de biais. Nous avons donc modifier le format des règles de base en un livret A5. <br>
+        <a href="pdf/regles_de_base.pdf" target="_blank"> Règles de base au format A5</a>
     </p>
     <p>
         De plus, nous désirions tester la compréhension des règles ainsi que l’aspect divertissant des règles. Notre version des règles comprenant de base un questionnaire, nous avons repris ce dernier (sans mentionner les réponses) afin de tester la compréhension dans le cas des règles de bases. La création de ce questionnaire est développée dans la partie concernant la maquette.
