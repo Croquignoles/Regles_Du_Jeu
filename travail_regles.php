@@ -40,7 +40,7 @@ include_once("includes/header.php");
             <img src="images/tableau_miro.png" width=400>
         </td>
     </table>
-    <p>
+    <p class="my-3">
     Il nous est ensuite possible de classer chaque solution. Pour cela, nous leur attribuons des valeurs selon le nombre de votes qu’elles ont reçues
     </p>
 </div>

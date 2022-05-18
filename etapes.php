@@ -14,7 +14,7 @@ include_once("includes/header.php");
         <a href="choix_jeu.php">Choix du jeu</a> 
       </li>
       <li>
-        <a href="">Observations</a>
+        <a href="observations.php">Observations</a>
       </li>
       <li>
         <a href="travail_regles.php">Travail sur les règles du jeu</a>
