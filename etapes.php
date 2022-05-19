@@ -61,10 +61,22 @@ include_once("includes/header.php");
       </td>
       </tr>
       <tr>
+      <td class = "margin-auto">
+        <div class="card m-3" style="height: 20rem;">
+          <div class="mx-auto" style="height:340px">
+            <img src="images/maquette.jpg" class="card-img-top" alt="image réalisation de la maquette">
+          </div>
+        <div class="card-body">
+          <h5 class="card-title">Réalisation de la maquette</h5>
+          <p class="card-text"></p>
+          <a href="etat_de_art.php" class="btn btn-primary">Voir</a>
+        </div>
+      </div>
+      </td>
       <td class="margin-auto">
         <div class="card mx-3" style="height: 20rem;">
           <div class="mx-auto" style="height:340px">
-            <img src="images/test-utilisateur.jpg" class="card-img-top" style="width: 98%" alt="image des tests">
+            <img src="images/test-utilisateur.jpg" class="card-img-top" style="width: 93%" alt="image des tests">
           </div>
           <div class="card-body">
             <h5 class="card-title">Tests utilisateurs</h5>
