@@ -69,7 +69,7 @@ include_once("includes/header.php");
         <div class="card-body">
           <h5 class="card-title">Réalisation de la maquette</h5>
           <p class="card-text"></p>
-          <a href="etat_de_art.php" class="btn btn-primary">Voir</a>
+          <a href="maquette.php" class="btn btn-primary">Voir</a>
         </div>
       </div>
       </td>
