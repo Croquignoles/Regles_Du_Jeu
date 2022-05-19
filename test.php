@@ -47,7 +47,7 @@ include_once("includes/header.php");
     <br/>
 </div>
 <div class="container" style="width: 70%">
-    <p><h1 style="color: #2a9d8f"> Limites </h1></p>
+    <p><h1 style="color: #f4a261"> Limites </h1></p>
     </div>
     <div class = "container border border-3">
     <br/>
