@@ -55,12 +55,22 @@ include_once("includes/header.php");
       </tr>
       <tr>
       <td>
+      <div class="card m-3" style="width: 18rem;">
+        <img src="..." class="card-img-top" alt="image réalisation de la maquette">
+        <div class="card-body">
+          <h5 class="card-title">Réalisation de la maquette</h5>
+          <p class="card-text"></p>
+          <a href="etat_de_art.php" class="btn btn-primary">Go check</a>
+        </div>
+      </div>
+      </td>
+      <td>
         <div class="card mx-3" style="width: 18rem;">
           <img src="..." class="card-img-top" alt="image des tests">
           <div class="card-body">
             <h5 class="card-title">Tests utilisateurs</h5>
             <p class="card-text"></p>
-            <a href="test.php" class="btn btn-primary">Go check</a>
+            <a href="maquette.php" class="btn btn-primary">Go check</a>
           </div>
         </div>
       </td>
