@@ -54,9 +54,6 @@ include_once("includes/header.php");
     Lors de ce protocole, plusieurs limites apparaissent :
     <ul>
         <li>
-            Lorsqu’ils répondent au questionnaire de compréhension, certains lecteurs ont la possibilité d’accéder aux règles et d’autres non. En effet, dans la maquette des règles remaniées, le questionnaire faisant partie intégrale du livret, il nous est impossible de demander au sujet de ne pas revenir en arrière, c’est lui qui se déplace dans les règles comme il le sent. En revanche, le questionnaire ne faisant pas partie des règles de base, les joueurs n’avaient pas accès au livret.
-        </li>
-        <li>
             Les tests n’ont pas tous été réalisés dans les mêmes conditions. Effectivement, certains lecteurs étaient en complète autonomie, d’autres ont réalisé le test à distance, via des documents informatiques.
         </li>
         <li>

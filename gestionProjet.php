@@ -51,17 +51,20 @@ include_once("includes/header.php");
     </p>
     <br/>
     <table>
-      <td width="30%">
+      <td width="25%">
         <img src="images/Discord.png" alt="Logo de Discord" width=100>
       </td>
-      <td width="30%">
+      <td width="25%">
         <img src="images/messenger.png" alt="Logo de messenger" width=120>
       </td>
-      <td width="30%">
+      <td width="25%">
         <img src="images/Drive.png" alt="Logo de Google Drive" width=120>
       </td>
-      <td width="30%">
+      <td width="25%">
         <img src="images/miro.png" alt="Logo de miro" width=190>
+      </td>
+      <td width="25%">
+        <img src="images/github.png" alt="Logo de miro" width=100>
       </td>
     </table>
   </div>
