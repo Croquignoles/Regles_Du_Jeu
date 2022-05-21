@@ -14,7 +14,7 @@ include_once("includes/header.php");
     <div class="container" style="width: 70%">
       <br/><br/>
       <p class="mt-3"><i><u>Client et Tuteur:</u></i> Victorien Marchand</p> 
-      <p><i><u>Objet:</u></i> Conception d'un tutoriel facilitant l'apprentissage des règles d'un jeu de plateau</p>
+      <p><i><u>Objet:</u></i> Conception d'un tutoriel facilitant l'apprentissage des règles d'un jeu de plateau pour les rendre ludiques</p>
       <p><i><u>Contexte:</u></i><br/> Jusqu’au début du XXIème siècle, on apprenait à jouer aux jeux vidéo avec… un  manuel papier. Depuis, l’accent a été mis sur l’utilisation de codes et commandes standardisés, et surtout sur le développement de tutoriels ludiques pour que l’apprentissage des règles du jeu soit une partie intégrante du jeu.  
         Le succès des vingt dernières années des jeux de société (dits jeux de plateau) a amené une offre importante de jeux de toutes durées et pour tous publics. Les règles y sont invariablement expliquées dans un fascicule papier dont la lisibilité et la compréhension sont très variables. La lecture des règles est un moment généralement mal vécu par le joueur qui préfère l’explication par quelqu’un connaissant le jeu, ou à défaut une vidéo de quelqu’un faisant la même chose.  <br/>
         Même quand un joueur connaît les règles et est disponible pour les expliquer, la densité de nouvelles connaissances est parfois trop forte pour des joueurs novices. La proposition de faire « une partie pour du beurre » est alors fraîchement accueillie, surtout quand le jeu dure un peu. 

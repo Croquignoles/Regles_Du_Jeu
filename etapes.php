@@ -22,10 +22,10 @@ include_once("includes/header.php");
           </div>
         </div>
       </td>
-      <td class = "margin-auto">
+      <td class = "margin-auto" style="width: 50%">
         <div class="card m-3" style="height: 20em">
           <div style="height: 340px" class = "mx-auto">
-            <img src="images/wonders.png" class="card-img-top" style="width: 50%"  alt="image choix du jeu">
+            <img src="images/wonders.jpg" class="card-img-top" style="width: 40%"  alt="image choix du jeu">
           </div>
           <div class="card-body">
             <h5 class="card-title">Choix du sujet</h5>
@@ -76,7 +76,7 @@ include_once("includes/header.php");
       <td class="margin-auto">
         <div class="card mx-3" style="height: 20rem;">
           <div class="mx-auto" style="height:340px">
-            <img src="images/test-utilisateur.jpg" class="card-img-top" style="width: 93%" alt="image des tests">
+            <img src="images/test-utilisateur.jpg" class="card-img-top" style="width: 73%" alt="image des tests">
           </div>
           <div class="card-body">
             <h5 class="card-title">Tests utilisateurs</h5>
