@@ -42,8 +42,26 @@ include_once("includes/header.php");
       </p> 
       </td>
       <td width="50%">
-        <img class="border border-3" src="images/Planning.png" alt="LDiscord de mi-projet" width=800>
+        <img class="border border-3" src="images/Planning.png" alt="Planning de mi-projet" width=800>
       </td>
+    </table>
+    </div>
+    <br/>
+  <div class = "container">
+    <h2 style="color: green">PLAN VERT</h1>
+  </div>
+  <br/>
+  <div class = "container">
+    <table>
+      <td width="23%">
+        <img src="images/vert.png" alt="image illustrant l'aspect écologique du plan vert" width=300>
+      </td>
+      <td width="77%">
+      <p> 
+        Notre projet était, de base, peu dépensier en énergie. Nous avons tout de même choisi de favoriser largement la mise en place de règles sous format PDF ce afin de limiter le gâchis de matériel. Dans le cas où nous devions imprimer les règles et les questionnaires, nous avons fait attention d’imprimer la quantité exacte d’exemplaires qui allaient nous être utiles. De plus, les règles imprimées ont été faites exclusivement exclusivement en papier (sans plastique ou autres matériaux peu recyclables). Enfin, nous avons pris la décision de se procurer un seul exemplaire du jeu Complots en s’assurant auparavant qu’il serait utilisé après la fin du projet.
+      </p> 
+      </td>
+      
     </table>
     <br/><br/><br/>
     <p class="text-center">
@@ -51,17 +69,20 @@ include_once("includes/header.php");
     </p>
     <br/>
     <table>
-      <td width="30%">
+      <td width="25%">
         <img src="images/Discord.png" alt="Logo de Discord" width=100>
       </td>
-      <td width="30%">
+      <td width="25%">
         <img src="images/messenger.png" alt="Logo de messenger" width=120>
       </td>
-      <td width="30%">
+      <td width="25%">
         <img src="images/Drive.png" alt="Logo de Google Drive" width=120>
       </td>
-      <td width="30%">
+      <td width="25%">
         <img src="images/miro.png" alt="Logo de miro" width=190>
+      </td>
+      <td width="25%">
+        <img src="images/github.png" alt="Logo de miro" width=100>
       </td>
     </table>
   </div>
