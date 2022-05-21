@@ -10,7 +10,7 @@ include_once("includes/header.php");
     <p class="py-3"><h3>Le projet s'est segmenté en différentes étapes et les étapes que nous avons suivi ont été chronologiquement les suivantes:</h3></p>
   </div>
   <table>
-      <td class = "margin-auto" style="width: 50%">
+      <td class = "margin-auto" style="width: 50%" id="etatArt">
         <div class="card m-3" style="height: 20em">
           <div style="height: 340px" class = "mx-auto">
             <img src="images/etat_art.jpg" class="card-img-top" style="width: 100%" alt="image état de l'art">
@@ -35,7 +35,7 @@ include_once("includes/header.php");
         </div>
       </td>
       <tr>
-      <td class = "margin-auto">
+      <td class = "margin-auto" id="observations">
         <div class="card m-3" style="height: 20em">
           <div class="mx-auto" style="height:340px">
             <img src="images/observations.jpg" class="card-img-top" style="width: 90%" alt="image observations">
@@ -61,7 +61,7 @@ include_once("includes/header.php");
       </td>
       </tr>
       <tr>
-      <td class = "margin-auto">
+      <td class = "margin-auto" id="maquette">
         <div class="card m-3" style="height: 20rem;">
           <div class="mx-auto" style="height:340px">
             <img src="images/maquette.jpg" class="card-img-top" alt="image réalisation de la maquette">
@@ -73,7 +73,7 @@ include_once("includes/header.php");
         </div>
       </div>
       </td>
-      <td class="margin-auto">
+      <td class="margin-auto" id="testsUtilisateurs">
         <div class="card mx-3" style="height: 20rem;">
           <div class="mx-auto" style="height:340px">
             <img src="images/test-utilisateur.jpg" class="card-img-top" style="width: 73%" alt="image des tests">
