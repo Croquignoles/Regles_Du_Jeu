@@ -58,7 +58,7 @@ include_once("includes/header.php");
       </td>
       <td width="77%">
       <p> 
-        Notre projet était, de base, peu dépensier en énergie. Nous avons tout de même choisi de favoriser largement la mise en place de règles sous format PDF ce afin de limiter le gâchis de matériel. Dans le cas où nous devions imprimer les règles et les questionnaires, nous avons fait attention d’imprimer la quantité exacte d’exemplaires qui allaient nous être utiles. De plus, les règles imprimées ont été faites exclusivement exclusivement en papier (sans plastique ou autres matériaux peu recyclables). Enfin, nous avons pris la décision de se procurer un seul exemplaire du jeu Complots en s’assurant auparavant qu’il serait utilisé après la fin du projet.
+        Notre projet était, de base, peu dépensier en énergie. Nous avons tout de même choisi de favoriser largement la mise en place de règles sous format PDF ce afin de limiter le gâchis de matériel. Dans le cas où nous devions imprimer les règles et les questionnaires, nous avons fait attention d’imprimer la quantité exacte d’exemplaires qui allaient nous être utiles. De plus, les règles imprimées ont été faites exclusivement en papier (sans plastique ou autres matériaux peu recyclables). Enfin, nous avons pris la décision de se procurer un seul exemplaire du jeu Complots en s’assurant auparavant qu’il serait utilisé après la fin du projet.
       </p> 
       </td>
       

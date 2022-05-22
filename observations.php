@@ -26,7 +26,7 @@ include_once("includes/header.php");
         <br/>
         Les réponses ont ensuite été analysées et confrontées entre elles pour en faire ressortir un modèle et nous permettre de mettre en place une maquette.</p>
         <h1 style="color: #e76f51">BILAN</h1>
-        <p>Lors des différentes observations, nous avons préparé un planning afin que chaque observation soit supervisée par deux membres de notre équipe. Nous avons donc finalement pu observer 5 groupes ce qui fut amplement suffisant étant donné que chaque groupe comportait au moins 4 personnes. Notons aussi qu’aucune des personnes observées ne connaissait les règles du jeu ce qui nous a permis de suivre l’apprentissage avec attention. NNotre responsable de projet s’est également joint à nous pour la dernière observation.</p>
+        <p>Lors des différentes observations, nous avons préparé un planning afin que chaque observation soit supervisée par deux membres de notre équipe. Nous avons donc finalement pu observer 5 groupes ce qui fut amplement suffisant étant donné que chaque groupe comportait au moins 4 personnes. Notons aussi qu’aucune des personnes observées ne connaissait les règles du jeu ce qui nous a permis de suivre l’apprentissage avec attention. Notre responsable de projet s’est également joint à nous pour la dernière observation.</p>
 
 
     </div>
