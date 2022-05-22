@@ -45,6 +45,20 @@ include_once("includes/header.php");
     </div>
     <div class = "container border border-3">
     <br/>
+    <p>Vous pouvez trouver un document contenant les résulats de notre étude plus détaillés <a href="pdf/analyseResultats .pdf">ici.</a></p>
+    <p>Quelques points importants : 
+        <ul>
+            <li>
+                La compréhension des règles est plus efficace pour un individu qui a lu notre modèle de règles.
+            </li>
+            <li>
+                L'objectif ludique attendu lors du remaniement des règles n'est pas rempli.
+            </li>
+            <li>
+                La concentration mise dans la lecture des règles influence positivement l'envie de jouer au jeu.
+            </li>
+        </ul>
+    </p>
 </div>
 <div class="container" style="width: 70%">
     <p><h1 style="color: #f4a261"> Limites </h1></p>
