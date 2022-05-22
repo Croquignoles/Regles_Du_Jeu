@@ -45,25 +45,20 @@ include_once("includes/header.php");
 </div>
 <div class = "container border border-3">
     <br/>
-    Suite à la passation des tests, nous avons récupéré les résultats pour les analyser à l’aide du logiciel RStudio. 
-    <br/>
-    Le vecteur regleBase (respectivement regleRemaniee) a accueilli les notes associées au questionnaire de compréhension des règles de base (respectivement des règles remaniées). Nous avons effectué un test de normalité pour savoir quel test sera utilisé par la suite. 
-    <table>
-        <td>
-            <img src="images/shapiro_base.png" alt="test de shapiro des règles de bases"width="630">
-        </td>
-        <td>
-            <img src="images/shapiro_remaniee.png" alt="test de shapiro des règles remaniées" width="600">
-        </td>
-    </table>
-    <br/>
-    Les deux p-value des deux échantillons sont supérieurs à 5% donc on ne peut rejeter H0. Les échantillons respectent donc un critère de normalité suffisant pour appliquer le test de student. 
-    <br/>
-    <img src="images/ttest.png" alt="test d'égalité des règles">
-    <br/>
-    Ce test permet de montrer que la différence des moyennes des notes sur les deux populations est significative. Aussi, cette dernière dernière révèle que les règles remaniées ont été mieux comprises que les règles de base. 
-    <br/>
-    <p><strong>Néanmoins, était-ce fun ?</strong></p>
+    <p>Vous pouvez trouver un document contenant les résulats de notre étude plus détaillés <a href="pdf/analyseResultats .pdf">ici.</a></p>
+    <p>Quelques points importants : 
+        <ul>
+            <li>
+                La compréhension des règles est plus efficace pour un individu qui a lu notre modèle de règles.
+            </li>
+            <li>
+                L'objectif ludique attendu lors du remaniement des règles n'est pas rempli.
+            </li>
+            <li>
+                La concentration mise dans la lecture des règles influence positivement l'envie de jouer au jeu.
+            </li>
+        </ul>
+    </p>
 </div>
 <div class="container" style="width: 70%">
     <p><h1 style="color: #f4a261"> Limites </h1></p>
