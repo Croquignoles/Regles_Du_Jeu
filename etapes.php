@@ -25,7 +25,7 @@ include_once("includes/header.php");
       <td class = "margin-auto" style="width: 50%">
         <div class="card m-3" style="height: 20em">
           <div style="height: 340px" class = "mx-auto">
-            <img src="images/wonders.jpg" class="card-img-top" style="width: 40%"  alt="image choix du jeu">
+            <img src="images/complots.png" class="card-img-top" style="width: 50%"  alt="image choix du jeu">
           </div>
           <div class="card-body">
             <h5 class="card-title">Choix du sujet</h5>

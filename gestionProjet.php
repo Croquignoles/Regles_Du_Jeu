@@ -58,10 +58,9 @@ include_once("includes/header.php");
       </td>
       <td width="77%">
       <p> 
-        Notre projet était, de base, peu dépensier en énergie. Nous avons tout de même choisi de favoriser largement la mise en place de règles sous format PDF ce afin de limiter le gâchis de matériel. Dans le cas où nous devions imprimer les règles et les questionnaires, nous avons fait attention d’imprimer la quantité exacte d’exemplaires qui allaient nous être utiles. De plus, les règles imprimées ont été faites exclusivement en papier (sans plastique ou autres matériaux peu recyclables). Enfin, nous avons pris la décision de se procurer un seul exemplaire du jeu Complots en s’assurant auparavant qu’il serait utilisé après la fin du projet.
+        Notre projet était, de base, peu dépensier en énergie. Nous avons tout de même choisi de favoriser largement la mise en place de règles sous format PDF ce afin de limiter le gâchis de matériel. Dans le cas où nous devions imprimer les règles et les questionnaires, nous avons fait attention d’imprimer la quantité exacte d’exemplaires qui allaient nous être utiles. De plus, les règles imprimées ont été faites exclusivement exclusivement en papier (sans plastique ou autres matériaux peu recyclables). Enfin, nous avons pris la décision de se procurer un seul exemplaire du jeu Complots en s’assurant auparavant qu’il serait utilisé après la fin du projet.
       </p> 
       </td>
-      
     </table>
     <br/><br/><br/>
     <p class="text-center">
@@ -85,6 +84,8 @@ include_once("includes/header.php");
         <img src="images/github.png" alt="Logo de miro" width=100>
       </td>
     </table>
+    <a href="pdf/gestion_projet.pdf" target="_blank"> Questionnaire sur la gestion de notre projet </a><br/>
+    <a href="pdf/matrice.pdf" target="_blank"> Matrice d'implication </a>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
