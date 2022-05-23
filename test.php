@@ -45,7 +45,7 @@ include_once("includes/header.php");
 </div>
 <div class = "container border border-3">
     <br/>
-    <p>Vous pouvez trouver un document contenant les résulats de notre étude plus détaillés <a href="pdf/analyseResultats .pdf">ici.</a></p>
+    <p>Vous pouvez trouver un document contenant les résulats de notre étude plus détaillés <a href="pdf/analyseResultats .pdf" target="_blank">ici.</a></p>
     <p>Quelques points importants : 
         <ul>
             <li>
@@ -72,6 +72,9 @@ include_once("includes/header.php");
         </li>
         <li>
             Le nombre de tests réalisés reste assez limité. Afin d’obtenir des résultats plus intéressants, il aurait fallu avoir un plus grand échantillon. 
+        </li>
+        <li>
+            Le questionnaire a été réalisé seul, ce qui ne permet pas vraiment de tester son aspect ludique. 
         </li>
 
     </ul>
