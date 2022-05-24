@@ -47,6 +47,14 @@ include_once("includes/header.php");
     </table>
     </div>
     <br/>
+    <div class = "container">
+    <h2 style="color: purple">DOCUMENTS SUPLEMENTAIRES</h1>
+  </div>
+  <div class = "container">
+    <a href="pdf/gestion_projet.pdf" target="_blank"> Questionnaire sur la gestion de notre projet </a><br/>
+    <a href="pdf/matrice.pdf" target="_blank"> Matrice d'implication </a>
+  </div>
+  <br/>
   <div class = "container">
     <h2 style="color: green">PLAN VERT</h1>
   </div>
@@ -84,9 +92,8 @@ include_once("includes/header.php");
         <img src="images/github.png" alt="Logo de miro" width=100>
       </td>
     </table>
-    <a href="pdf/gestion_projet.pdf" target="_blank"> Questionnaire sur la gestion de notre projet </a><br/>
-    <a href="pdf/matrice.pdf" target="_blank"> Matrice d'implication </a>
-  </div>
+<br/>
+    
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 

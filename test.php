@@ -14,7 +14,7 @@ include_once("includes/header.php");
         De plus, nous désirions tester la compréhension des règles ainsi que l’aspect divertissant des règles. Notre version des règles comprenant de base un questionnaire, nous avons repris ce dernier (sans mentionner les réponses) afin de tester la compréhension dans le cas des règles de bases. La création de ce questionnaire est développée dans la partie concernant la maquette.
     </p>
     <p>
-        Nous avons ensuite créé un questionnaire de divertissement composé de 7 questions fermées pour lesquelles le lecteur répond à l’aide d’une échelle de cinq valeurs selon si sa réponse à la question est plus ou moins affirmative. Une dernière question laisse ensuite plus de liberté au lecteur qui peut exprimer ses suggestions s’il en a.  
+        Nous avons ensuite créé un <a href="pdf/ludique.pdf" target="_blank">questionnaire de divertissement</a> composé de 7 questions fermées pour lesquelles le lecteur répond à l’aide d’une échelle de cinq valeurs selon si sa réponse à la question est plus ou moins affirmative. Une dernière question laisse ensuite plus de liberté au lecteur qui peut exprimer ses suggestions s’il en a.  
     </p>
     <p>
         Afin de ne pas biaiser les résultats du test de divertissement, les tests des deux versions des règles ne se déroulent pas exactement de la même manière. 
